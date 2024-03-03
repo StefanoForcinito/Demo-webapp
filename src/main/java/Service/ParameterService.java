@@ -1,4 +1,4 @@
-package com.develhope.demowebapp.Service;
+package Service;
 
 import Controller.User;
 import org.springframework.stereotype.Service;
